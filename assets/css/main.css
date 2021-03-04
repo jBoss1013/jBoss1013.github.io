@@ -2189,7 +2189,7 @@ input, select, textarea {
 
 		.image.avatar {
 			border-radius: 100%;
-			overflow: hidden;
+			overflow: visible;
 		}
 
 			.image.avatar img {
